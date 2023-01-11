@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://youtube.com/c/LightedTechnology">
   <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062690105065750568/Parkour_Warrior.png"> </a>
+  <h3 align="center"> This repository will update every Wednesday </h2>
 </p>
 
 ---
