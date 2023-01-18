@@ -1,12 +1,15 @@
 <p align="center">
   <a href="https://youtube.com/c/LightedTechnology">
   <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062690105065750568/Parkour_Warrior.png"> </a>
-  <h3 align="center"> This repository will update every Wednesday </h2>
+  <h3 align="center"> This repository will update every Wednesday </h3>
+  
+  <h4 align="center"> 18th of January, 2023 </h4>
+  This week of development, compared to the previous one, really wasn't *that* productive. Reason for that being that this week, a pretty significant affair will be held, the yearly English a-la tournament amongst all schools of our county to derive the best englishman (or, in my case, woman) from the crowd of students pursuing advanced degrees. With all of my focus and dedication funneled to that, nevertheless, I have introduced *auras, trails, leaderboards and timers* and, well, spent two hours yesterday breaking down over how on earth embed resourcepack shaders are even meant to work. Not much, I know, still, best I could do given the circumstances.
 </p>
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress%3A-31%25-success?style=for-the-badge&logo=hackthebox)
+![Progress](https://img.shields.io/badge/Progress%3A-36%25-success?style=for-the-badge&logo=hackthebox)
 ![Download](https://img.shields.io/badge/Download%3A-Unavailable-red?style=for-the-badge&logo=dropbox)
 
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062692031593459772/Info.png" height=32>
@@ -25,8 +28,8 @@ This Parkour Warrior **will** feature:
   3. By enabling Player Synchronisation, Players are all forced into the third mode: Synchronised Run. Synchronised Run offers an identical (with your customised preferences) to the *real* event experience. You are granted with X minutes during which you must try to get as much coins as possible, with Y time in Overtime in case you might need it.
   
   All of the modes feature standard Parkour Warrior mechanics (such as Scrolls), although their interface deviates from one another.
-- **Cosmetic and individual gameplay customisation**: Players can unlock cosmetics (hats, trails, and particles) by completing **challanges** or buying them for the coins they have acquired from their runs. Players will also be able to tune their gameplay: disable the soundtrack, bossbars, give themselves night vision, etc, as well as simply change their team for... a useless, unless synchronised, colour. 
-- **A thought through UI**: Unlike my previous map, this one will innovate the way players interact with the map, with more, than a "relatively simple" Control Book.
+- **Cosmetic and individual gameplay customisation**: Players can unlock cosmetics (hats, trails, particles, and holdables) by completing **challanges** or buying them for the coins they have acquired from their runs. Players will also be able to tune their gameplay: disable the soundtrack, bossbars, give themselves night vision, etc, as well as simply change their team for... a useless, unless synchronised, colour. 
+- **A thought through UI**: Unlike my previous map, this one will innovate the way players interact with the map, with more, than a "relatively simple" Control Book. The UI will provide players with the ability to customise their own gameplay, appearance, and for those with admin permission, even the game itself (to an extent, which is far less than bb19)
 
 Parkour Warrior will have more subtle details, but so far in development, this is all I have come up with.
 
@@ -38,7 +41,7 @@ Parkour Warrior will have more subtle details, but so far in development, this i
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710777737400421/2023-01-11_18.30.51.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778874040330/2023-01-11_18.32.17.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778471391272/2023-01-11_18.31.49.png">
-<img src="https://cdn.discordapp.com/attachments/879977373859196939/1062705691166523484/image.png">
+<img src="https://cdn.discordapp.com/attachments/879977373859196939/1065250730711208076/Screenshot_2023-01-18_184537.png">
 </p>
 
 <br>
