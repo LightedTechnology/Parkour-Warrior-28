@@ -7,10 +7,14 @@
   This week of development, compared to the previous one, really wasn't *that* productive. Reason for that being that this week, a pretty significant affair will be held, the yearly English a-la tournament amongst all schools of our county to derive the best englishman (or, in my case, woman) from the crowd of students pursuing advanced degrees. With all of my focus and dedication funneled to that, nevertheless, I have introduced *auras, trails, leaderboards and timers* and, well, spent two hours yesterday breaking down over how on earth embed resourcepack shaders are even meant to work. Not much, I know, still, best I could do given the circumstances.
 </p>
 
+  <h4 align="center"> 25th of January, 2023 </h4>
+  So, update on last the significant affair I mentioned last week - I got first place! Which means I now have an even more significant affair due somewhere in the nearby future, but, future me problems, present me DOESN'T CARE. This week I finished the artwork for the GUI, still working on implementing it fully, but after that it feels like there are a few major things to introduce and the map will be kinda done? Don't get me wrong - those things WILL be time consuming to no avail, but at the very least I can say that PKW28 is coming out soon*ish*.
+</p>
+
 ---
 
-![Progress](https://img.shields.io/badge/Progress%3A-36%25-success?style=for-the-badge&logo=hackthebox)
-![Download](https://img.shields.io/badge/Download%3A-Unavailable-red?style=for-the-badge&logo=dropbox)
+![Progress](https://img.shields.io/badge/Progress%3A-42%25-success?style=for-the-badge&logo=hackthebox)
+![Download](https://img.shields.io/badge/Download%3A-Soonish-red?style=for-the-badge&logo=dropbox)
 
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062692031593459772/Info.png" height=32>
 
@@ -30,6 +34,7 @@ This Parkour Warrior **will** feature:
   All of the modes feature standard Parkour Warrior mechanics (such as Scrolls), although their interface deviates from one another.
 - **Cosmetic and individual gameplay customisation**: Players can unlock cosmetics (hats, trails, particles, and holdables) by completing **challanges** or buying them for the coins they have acquired from their runs. Players will also be able to tune their gameplay: disable the soundtrack, bossbars, give themselves night vision, etc, as well as simply change their team for... a useless, unless synchronised, colour. 
 - **A thought through UI**: Unlike my previous map, this one will innovate the way players interact with the map, with more, than a "relatively simple" Control Book. The UI will provide players with the ability to customise their own gameplay, appearance, and for those with admin permission, even the game itself (to an extent, which is far less than bb19)
+- **Achievments**: Ever get bored of my maps quickly? How about grinding the hell out of the map to pursue unnecessarily heavy goals to unlock trails, auras, hats and holdables? A wonderful idea, this one, I agree.
 
 Parkour Warrior will have more subtle details, but so far in development, this is all I have come up with.
 
@@ -41,7 +46,8 @@ Parkour Warrior will have more subtle details, but so far in development, this i
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710777737400421/2023-01-11_18.30.51.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778874040330/2023-01-11_18.32.17.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778471391272/2023-01-11_18.31.49.png">
-<img src="https://cdn.discordapp.com/attachments/879977373859196939/1065250730711208076/Screenshot_2023-01-18_184537.png">
+<img src="https://cdn.discordapp.com/attachments/959962673934663691/1066699522291544165/image.png">
+<img src="https://cdn.discordapp.com/attachments/879977373859196939/1067823091549483059/image.png">
 </p>
 
 <br>
@@ -49,7 +55,7 @@ Parkour Warrior will have more subtle details, but so far in development, this i
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062691893554708530/For_Anyone_Questioning.png" height=32>
 
 **Q:** When and where will the map come out?\
-**A:** It is too early in development to give an accurate prediction for when the map will get released. And believe me, when it will be nearly finished - you **will** get to know. I plan to publish the map both on YouTube and Planet Minecraft, you will be able to download it from here, dropbox and google drive.
+**A:** It is too early in development to give an accurate prediction, but I'd look out for somewhere in February or March.
 
 **Q:** Where can I contact you?\
 **A:** You can't. Unless you know certain people or are willing to stalk for me on social media, there isn't really a way to get to me besides leaving comments under my videos/community posts.
