@@ -5,15 +5,17 @@
   
   <h4 align="center"> 18th of January, 2023 </h4>
   This week of development, compared to the previous one, really wasn't *that* productive. Reason for that being that this week, a pretty significant affair will be held, the yearly English a-la tournament amongst all schools of our county to derive the best englishman (or, in my case, woman) from the crowd of students pursuing advanced degrees. With all of my focus and dedication funneled to that, nevertheless, I have introduced *auras, trails, leaderboards and timers* and, well, spent two hours yesterday breaking down over how on earth embed resourcepack shaders are even meant to work. Not much, I know, still, best I could do given the circumstances.
-</p>
 
   <h4 align="center"> 25th of January, 2023 </h4>
   So, update on last the significant affair I mentioned last week - I got first place! Which means I now have an even more significant affair due somewhere in the nearby future, but, future me problems, present me DOESN'T CARE. This week I finished the artwork for the GUI, still working on implementing it fully, but after that it feels like there are a few major things to introduce and the map will be kinda done? Don't get me wrong - those things WILL be time consuming to no avail, but at the very least I can say that PKW28 is coming out soon*ish*.
+
+<h4 align="center"> 1st of February, 2023 </h4>
+Another week, this time featuring more progress than ever! Funnily enough, all of which was done on the weekends and I'd really appreciate if my life stopped holding a gun to my head over urgent matters. Disregarding the disaster which were the last two days, a lot of the visual interactive aspects were introduced *which I'm not going to show this week*, so, stay tuned? 
 </p>
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress%3A-42%25-success?style=for-the-badge&logo=hackthebox)
+![Progress](https://img.shields.io/badge/Progress%3A-55%25-success?style=for-the-badge&logo=hackthebox)
 ![Download](https://img.shields.io/badge/Download%3A-Soonish-red?style=for-the-badge&logo=dropbox)
 
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062692031593459772/Info.png" height=32>
