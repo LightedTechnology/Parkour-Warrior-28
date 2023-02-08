@@ -11,6 +11,9 @@
 
 <h4 align="center"> 1st of February, 2023 </h4>
 Another week, this time featuring more progress than ever! Funnily enough, all of which was done on the weekends and I'd really appreciate if my life stopped holding a gun to my head over urgent matters. Disregarding the disaster which were the last two days, a lot of the visual interactive aspects were introduced *which I'm not going to show this week*, so, stay tuned? 
+<h4 align="center"> 8th of February, 2023 </h4>
+Progress, progress, progress. I believe I have finished all of the models and art that will be present in the map. Now the only target is to finish the map, polish it and add a very special thing. I'd like to do that asap, but at the same time life's currently trying to kill me and I am desperately trying to avoid that.
+
 </p>
 
 ---
@@ -48,8 +51,8 @@ Parkour Warrior will have more subtle details, but so far in development, this i
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710777737400421/2023-01-11_18.30.51.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778874040330/2023-01-11_18.32.17.png">
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062710778471391272/2023-01-11_18.31.49.png">
-<img src="https://cdn.discordapp.com/attachments/959962673934663691/1066699522291544165/image.png">
-<img src="https://cdn.discordapp.com/attachments/879977373859196939/1067823091549483059/image.png">
+<img src="https://cdn.discordapp.com/attachments/879977373859196939/1072876636074151986/2023-02-08_19.46.49.png">
+<img src="https://cdn.discordapp.com/attachments/879977373859196939/1072876636376154192/2023-02-08_19.47.53.png">
 </p>
 
 <br>
