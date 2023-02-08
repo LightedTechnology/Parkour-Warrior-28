@@ -18,7 +18,7 @@ Progress, progress, progress. I believe I have finished all of the models and ar
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress%3A-55%25-success?style=for-the-badge&logo=hackthebox)
+![Progress](https://img.shields.io/badge/Progress%3A-70%25-success?style=for-the-badge&logo=hackthebox)
 ![Download](https://img.shields.io/badge/Download%3A-Soonish-red?style=for-the-badge&logo=dropbox)
 
 <img src="https://cdn.discordapp.com/attachments/879977373859196939/1062692031593459772/Info.png" height=32>
