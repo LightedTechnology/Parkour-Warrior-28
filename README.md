@@ -2,9 +2,10 @@
 
 ###### `ℹ️` Parkour Warrior is the ultimate test of the player's mobility. Players are tasked with the difficult challenge of traversing a difficult parkour course, while also battling against time. Complete courses, earn medals, and prove you are worthy of being called a Parkour Warrior!
 
+<a href="..#-1">![Progress](https://img.shields.io/badge/Progress%3A-complete-success?style=for-the-badge&logo=hackthebox) </a>
+<a href="..#download-tablet"> ![Download](https://img.shields.io/badge/Download%3A-available-success?style=for-the-badge&logo=dropbox) </a>
+
 ---
-<a href="..#What is Parkour Warrior">![Progress](https://img.shields.io/badge/Progress%3A-99%25-success?style=for-the-badge&logo=hackthebox) </a>
-<a href="..#Download"> ![Download](https://img.shields.io/badge/Download%3A-POSTPONED-red?style=for-the-badge&logo=dropbox) </a>
 
 ### What is Parkour Warrior?
 **Parkour Warrior** is a minigame, designed for both single and multiplayer. It features:
@@ -50,22 +51,26 @@
   - `🍬` **Can Dye Land** - Complete the course within three minutes.
   - `🏯` **The Parkour Warrior** - Complete the course with a CPM score of 6 or more.
 - **Additional content**:
-  - `💔` No Checkpoint Mode (idea by [Fruitless Gaming](www.youtube.com/@FruitlessGamingYT)) - in this mode, if you fall - you are teleported to the beginning of the course. Available only in Run.
+  - `💔` No Checkpoint Mode (idea by [Fruitless Gaming](https://www.youtube.com/@FruitlessGamingYT)) - in this mode, if you fall - you are teleported to the beginning of the course. Available only in Run.
   - `📑` Statistics - This map provides everyone with a profile (featuring their fastest run, highest CPM, and most earned coins in one run). You can also access leaderboards for those three categories. At the end of each run, you are provided with a somewhat decent rundown on what you were doing.
   - `💻` UI - The map features an easy to interact with UI (replacing the default inventory), substituting the control book. This map is also the first one to feature my implementations of variable scoreboards and bossbars in mcfunction. The GUI is no longer copying MCC, instead, it tries to add its own touch with the blue and orange color scheme.
   - `🐸` Frogtown - A playground sprinkled with parkour elements and hang out areas. Weirdly, there are no frogs...
-## <img src="https://cdn.discordapp.com/attachments/879977373859196939/1084060868087644220/Download.png" alt="Download">
+
+<img src="https://cdn.discordapp.com/attachments/879977373859196939/1084060868087644220/Download.png" alt="Download">
+
+###### Download Tablet
 | ℹ️ | Bundle | Version(s) | Description | Link |
 | :---: | :---: | :---: | :--- | :---: |
-| 🗺️ | Map | v1.0.0 | This pack only provides the map. |  |
-| 🎨 | Resource Pack | v1.0.0 | This pack only provides the resource pack. |  |
-| 👜 | Singleplayer | v1.0.0🗺️<br>v1.0.0🎨 | This pack provides the map with the texturepack embed. |  |
-| 💼 | Hosting | v1.0.0🗺️<br>v1.0.0🎨 | This pack provides the map and a server.properties file. |  |
-| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | |
+| 🗺️ | Map | v1.0.0 | This pack only provides the map. | <a href="https://www.dropbox.com/s/giornledqx3fbop/Parkour%20Warrior%2028%20%5Bv1.0.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a>  |
+| 🎨 | Resource Pack | v1.0p | This pack only provides the resource pack. | <a href="https://www.dropbox.com/s/x8thgov87q29xag/Parkour%20Warrior%2028%20%5Bv1.0p%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 👜 | Singleplayer | v1.0.0🗺️<br>v1.0s🎨 | This pack provides the map with the texturepack embed. | <a href="https://www.dropbox.com/s/kf5tbolaw0zk5ig/Parkour%20Warrior%2028%20%5Bv1.0.0%5D%20%5Bv1.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 💼 | Hosting | v1.0.0🗺️ | This pack provides the map and a server.properties file. | <a href="https://www.dropbox.com/s/pbjdj04q5cg1jhl/Parkour%20Warrior%2028%20%5Bv1.0.0%5Dh.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | <a href="https://www.dropbox.com/s/td33lb77y09j5z0/Parkour%20Warrior%2028%20%5Bv1.0.0%5D%20%5Bv1.0%5D%20AIO.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+
 ### `🔗` Useful Links:
 - [How To Add A Resource Pack to Your Minecraft Server](https://youtu.be/rjBJD1caRlA)
 ```
-Resource Pack link will be here
+https://www.dropbox.com/s/cru5msoe7580bbr/Parkour%20Warrior%2028%20%5Bv1.0s%5D.zip?dl=1
 ```
 ## <img src="https://cdn.discordapp.com/attachments/879977373859196939/1084071684321050694/Additional.png" alt="Additional">
 
@@ -82,9 +87,24 @@ Resource Pack link will be here
 | 🥉 | Bronze Medal | 2 | 7 | 15 | 22 | 35 |
 | 🥈 | Silver Medal | 5 | 20 | 40 | 70 | 100 | 
 | 🥇 | Gold Medal | 10 | 40 | 80 | 130 | 200 |
-| 💎 | Bonus | 17 | 73 | 147 | 240 | 365|
----
+| 💎 | **Bonus** | 17 | 73 | 147 | 240 | 365|
 
+### `⏰` Coins Per Minute
+<img src="https://cdn.discordapp.com/attachments/669425247606276112/1086276143956623360/Untitled2.png">
+
+`ℹ️` **CPM** (**CPTM**) is the baseline measurement of performance in this map. CPM is dervied by the formula $\frac{120 c}{t}$, where `c` is `coins` and `t` is `time in ticks`. CPTM is the same as CPM, but multiplied by a 100. Tips to improve CPM:
+- If you are yet unable to do a challenge easily, either practise it in Casual or use the Teleportation Scroll whenever you get to it. The less time you waste on a challenge, the heigher the endpoint CPM will be.
+- Learn to do the Hard Ending. Even if it takes thrice as long, the boost of +1.25x is worth basically double the time spent in the course.
+
+### `📃` Triggers
+
+`🧮` `/trigger` is a command that does not require any permissions to be used, making it the perfect alternative to custom commands of plugins for .mcfunction based projects. This map features:
+- `adminPermission`: brings up a tellraw prompt to execute a command to verify that the player has admin permissions. Grants the `admin` tag which allows to interact with global settings.
+- `preferenceProfile`: brings up a list of three profiles: Classic, Competitive, and Content Creation. The profiles change the personal preferences to adhere to different types of people.
+- `viewSettings`: shows all of the global settings of the world. As most changes aren't notified of, might be useful to get to know the disposition.
+- `viewProfile`: shows the profile of the closest player to the point of four blocks in front of the executer. If executed while looking directly down or if no players are in the viscinity, shows the profile of the executor. The profile consists of the placement, best CPM score, fastest run, most earned coins (and total coins).
+
+---
 ### `📸` Screenshots
 <img src="https://cdn.discordapp.com/attachments/879978618133024778/1084057071927967804/2023-03-11_14.03.25.png">
 <img src="https://cdn.discordapp.com/attachments/879978618133024778/1084057072431276092/2023-03-11_14.04.19.png">
