@@ -3,7 +3,7 @@
 ###### `ℹ️` Parkour Warrior is the ultimate test of the player's mobility. Players are tasked with the difficult challenge of traversing a difficult parkour course, while also battling against time. Complete courses, earn medals, and prove you are worthy of being called a Parkour Warrior!
 
 <a href="..#-1">![Progress](https://img.shields.io/badge/Progress%3A-complete-success?style=for-the-badge&logo=hackthebox) </a>
-<a href="..#download-tablet"> ![Download](https://img.shields.io/badge/Download%3A-available-success?style=for-the-badge&logo=dropbox) </a>
+<a href="https://github.com/LightedTechnology/Parkour-Warrior-28#download-tablet"> ![Download](https://img.shields.io/badge/Download%3A-available-success?style=for-the-badge&logo=dropbox) </a>
 
 ---
 
