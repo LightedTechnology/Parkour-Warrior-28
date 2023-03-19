@@ -61,11 +61,11 @@
 ###### Download Tablet
 | ℹ️ | Bundle | Version(s) | Description | Link |
 | :---: | :---: | :---: | :--- | :---: |
-| 🗺️ | Map | v1.0.1 | This pack only provides the map. | <a href="https://www.dropbox.com/s/giornledqx3fbop/Parkour%20Warrior%2028%20%5Bv1.0.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a>  |
+| 🗺️ | Map | v1.0.2 | This pack only provides the map. | <a href="https://www.dropbox.com/s/9ly3tqe6sbcg7bg/Parkour%20Warrior%2028%20%5Bv1.0.2%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a>  |
 | 🎨 | Resource Pack | v1.0p | This pack only provides the resource pack. | <a href="https://www.dropbox.com/s/x8thgov87q29xag/Parkour%20Warrior%2028%20%5Bv1.0p%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 👜 | Singleplayer | v1.0.1🗺️<br>v1.0s🎨 | This pack provides the map with the texturepack embed. | <a href="https://www.dropbox.com/s/kf5tbolaw0zk5ig/Parkour%20Warrior%2028%20%5Bv1.0.0%5D%20%5Bv1.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 💼 | Hosting | v1.0.1🗺️ | This pack provides the map and a server.properties file. | <a href="https://www.dropbox.com/s/pbjdj04q5cg1jhl/Parkour%20Warrior%2028%20%5Bv1.0.0%5Dh.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | <a href="https://www.dropbox.com/s/td33lb77y09j5z0/Parkour%20Warrior%2028%20%5Bv1.0.0%5D%20%5Bv1.0%5D%20AIO.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 👜 | Singleplayer | v1.0.2🗺️<br>v1.0s🎨 | This pack provides the map with the texturepack embed. | <a href="https://www.dropbox.com/s/kf5tbolaw0zk5ig/Parkour%20Warrior%2028%20%5Bv1.0.2%5D%20%5Bv1.0s%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 💼 | Hosting | v1.0.2🗺️ | This pack provides the map and a server.properties file. | <a href="https://www.dropbox.com/s/pbjdj04q5cg1jhl/Parkour%20Warrior%2028%20%5Bv1.0.2%5Dh.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | <a href="https://www.dropbox.com/s/td33lb77y09j5z0/Parkour%20Warrior%2028%20%5Bv1.0.2%5D%20%5Bv1.0p%5D%20AIO.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
 
 ### `🔗` Useful Links:
 - [How To Add A Resource Pack to Your Minecraft Server](https://youtu.be/rjBJD1caRlA)
@@ -93,7 +93,7 @@ https://www.dropbox.com/s/cru5msoe7580bbr/Parkour%20Warrior%2028%20%5Bv1.0s%5D.z
 <img src="https://cdn.discordapp.com/attachments/669425247606276112/1086276143956623360/Untitled2.png">
 
 `ℹ️` **CPM** (**CPTM**) is the baseline measurement of performance in this map. CPM is dervied by the formula $\frac{120 c}{t}$, where `c` is `coins` and `t` is `time in ticks`. CPTM is the same as CPM, but multiplied by a 100. Tips to improve CPM:
-- If you are yet unable to do a challenge easily, either practise it in Casual or use the Teleportation Scroll whenever you get to it. The less time you waste on a challenge, the heigher the endpoint CPM will be.
+- If you are yet unable to do a challenge easily, either practise it in Casual or use the Teleportation Scroll whenever you get to it. The less time you waste on a challenge, the higher the endpoint CPM will be.
 - Learn to do the Hard Ending. Even if it takes thrice as long, the boost of +1.25x is worth basically double the time spent in the course.
 
 ### `📃` Triggers
