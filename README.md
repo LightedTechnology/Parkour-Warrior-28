@@ -61,16 +61,16 @@
 ###### Download Tablet
 | ℹ️ | Bundle | Version(s) | Description | Link |
 | :---: | :---: | :---: | :--- | :---: |
-| 🗺️ | Map | v1.0.3 | This pack only provides the map. | <a href="https://www.dropbox.com/s/9ly3tqe6sbcg7bg/Parkour%20Warrior%2028%20%5Bv1.0.2%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a>  |
-| 🎨 | Resource Pack | v1.0p | This pack only provides the resource pack. | <a href="https://www.dropbox.com/s/x8thgov87q29xag/Parkour%20Warrior%2028%20%5Bv1.0p%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 👜 | Singleplayer | v1.0.3🗺️<br>v1.0s🎨 | This pack provides the map with the texturepack embed. | <a href="https://www.dropbox.com/s/kf5tbolaw0zk5ig/Parkour%20Warrior%2028%20%5Bv1.0.2%5D%20%5Bv1.0s%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 💼 | Hosting | v1.0.3🗺️ | This pack provides the map and a server.properties file. | <a href="https://www.dropbox.com/s/pbjdj04q5cg1jhl/Parkour%20Warrior%2028%20%5Bv1.0.2%5Dh.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
-| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | <a href="https://www.dropbox.com/s/td33lb77y09j5z0/Parkour%20Warrior%2028%20%5Bv1.0.2%5D%20%5Bv1.0p%5D%20AIO.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 🗺️ | Map | v1.0.3 | This pack only provides the map. | <a href="https://www.dropbox.com/s/9ly3tqe6sbcg7bg/Parkour%20Warrior%2028%20%5Bv2.0.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a>  |
+| 🎨 | Resource Pack | v1.0p | This pack only provides the resource pack. | <a href="https://www.dropbox.com/s/id4pu2ofx2lx0qv/Parkour%20Warrior%2028%20%5Bv2.0p%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 👜 | Singleplayer | v1.0.3🗺️<br>v1.0s🎨 | This pack provides the map with the texturepack embed. | <a href="https://www.dropbox.com/s/9ly3tqe6sbcg7bg/Parkour%20Warrior%2028%20%5Bv2.0.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 💼 | Hosting | v1.0.3🗺️ | This pack provides the map and a server.properties file. | <a href="https://www.dropbox.com/s/9ly3tqe6sbcg7bg/Parkour%20Warrior%2028%20%5Bv2.0.0%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
+| 🧰 | All-In-One |↑ 1.19.3 ↑ | This pack provides everything. | <a href="https://www.dropbox.com/s/kf5tbolaw0zk5ig/Parkour%20Warrior%2028%20%5Bv2.0.0%5D%20%5Bv2.0s%5D.zip?dl=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-tile.svg" alt="download" width="30" height="30"/> </a> |
 
 ### `🔗` Useful Links:
 - [How To Add A Resource Pack to Your Minecraft Server](https://youtu.be/rjBJD1caRlA)
 ```
-https://www.dropbox.com/s/cru5msoe7580bbr/Parkour%20Warrior%2028%20%5Bv1.0s%5D.zip?dl=1
+https://www.dropbox.com/s/8t8tfh2c1lll1f9/Parkour%20Warrior%2028%20%5Bv2.0s%5D.zip?dl=1
 ```
 ## <img src="https://cdn.discordapp.com/attachments/879977373859196939/1084071684321050694/Additional.png" alt="Additional">
 
